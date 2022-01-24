@@ -15,5 +15,6 @@ start XG_systempedow
 start XG_interior
 start qtarget
 start InteractSound
+start PolyZone
 -->
 -------------------------------BY XOLAX GROUP DEVELOPMENT-----------------------------------------------------
